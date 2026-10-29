@@ -19,6 +19,7 @@
       "preload.js",
       "web/**/*"
     ],
+    "afterPack": "./scripts/afterPack.js",
     "mac": {
       "category": "public.app-category.entertainment",
       "target": [
